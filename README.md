@@ -1,4 +1,4 @@
-# Games JS
+# Games JS 🎮
 
 
 [Breakot ☄️](https://ofek2016.github.io/GamesJS/Breakot/)
